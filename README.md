@@ -8,5 +8,6 @@ Data          |   Versão    |               Descrição                        
 26/01/2017    |  1.0.0      |  socket - exemplo proxy cliente/servidor                        | [Aluísio](https://github.com/AluisioPereira)
 27/01/2017    |  1.0.0      |  socket - Multiplos Node (1, 2-proxy, 3) cliente/servidor       | [Aluísio](https://github.com/AluisioPereira)
 02/02/2017    |  1.0.0      |  messaging system (mensageiros)                                 | [Aluísio](https://github.com/AluisioPereira)
+03/02/2017    |  1.0.0      |  messaging system (mensageiros) Publisher                       | [Aluísio](https://github.com/AluisioPereira)
 
 
