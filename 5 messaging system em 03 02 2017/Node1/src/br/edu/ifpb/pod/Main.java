@@ -10,13 +10,11 @@ package br.edu.ifpb.pod;
  *
  * @author ajp
  */
-public class Publisher {
+public class Main {
+	
+	public static void main(String[] args) {
+		Subscriber subscriber = new Subscriber();
+		subscriber.subscribe();
+	}
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
 }
